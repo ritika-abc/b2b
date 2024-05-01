@@ -1,0 +1,1 @@
+function validate_mobile_first_digit(i,t){var a=$("#"+i).val();return!(91==t&&String(a).charAt(0)<5&&10==a.length)||(alert("Invailid Mobile Number."),$("#"+i).val(""),!1)}

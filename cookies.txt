@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.exportersindia.com	TRUE	/	FALSE	1999999999	PHPSESSID	99nnjarbh7des1crdi0502mfl8
+www.exportersindia.com	TRUE	/	FALSE	1999999999	whatsapp_service_opt	deleted
+www.exportersindia.com	TRUE	/	FALSE	1999999999	trade_newID	8640171
+
